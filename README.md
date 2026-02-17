@@ -74,12 +74,6 @@ java Main
 
 ---
 
-## 🏆 Resume Description
-
-Developed a CLI-based Library Management System using Java and OOP principles with book issue and return functionality.
-
----
-
 
 ## 👨‍💻 Author
 Farhan Gheri
